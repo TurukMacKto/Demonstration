@@ -14,8 +14,3 @@ NeuroStartUp
 * По всем вопросам обращаться 
 <a href ="http://netology.ru">Netology</a>
 <body>
-selector {
-  font-family: "Awesome", Arial, sans-serif;
-  color: red;
-}
-'''
